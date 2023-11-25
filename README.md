@@ -1,7 +1,7 @@
 # Kittygram
 Kittygram — социальная сеть для обмена фотографиями любимых питомцев.
 
-![badge](https://github.com/rest2011/kittygram_final/actions/workflows/main.yml/badge.svg?event=push)
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml)
 ### Стек используемых технологий:
 - Python
 - Django
