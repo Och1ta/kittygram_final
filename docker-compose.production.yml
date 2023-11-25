@@ -33,3 +33,6 @@ services:
     volumes:
       - static:/static
       - media:/media/
+    depends_on:
+      - frontend
+      - backend
